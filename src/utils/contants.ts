@@ -1,0 +1,18 @@
+const LETTERS = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+const NUMBERS = '0123456789'
+const SPECIAL = "!@#$%^&*()-+_={}[]:;'<>./?"
+
+const MIN_SIZE_PASSWORD = 8
+const MAX_SIZE_PASSWORD = 14
+
+const MY_KEYS = 'PASSWORD_GENERATION_SAVED'
+
+
+export {
+  LETTERS, 
+  NUMBERS,
+  SPECIAL,
+  MIN_SIZE_PASSWORD,
+  MAX_SIZE_PASSWORD,
+  MY_KEYS
+}
