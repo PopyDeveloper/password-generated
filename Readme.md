@@ -1,1 +1,1 @@
-<img src=[arquivo](assets/exempleVideo.mov).gif">
+<img src="assets/exempleVideo.mov">
