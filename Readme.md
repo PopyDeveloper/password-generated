@@ -1,1 +1,1 @@
-<img src="assets/exempleVideo.mov">
+<img src="assets/exempleVideo.gif">
